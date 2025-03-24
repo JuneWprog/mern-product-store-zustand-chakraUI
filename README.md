@@ -1,5 +1,7 @@
 # mern-product-store-zustand-chakraUI
-![2025-03-23_214247](https://github.com/user-attachments/assets/b60054fe-c655-4647-bb73-d39b717cde26)
+
+![2025-03-23_214227](https://github.com/user-attachments/assets/cf52987d-fbbf-41c0-b2ae-faba4fc1da12)
+
 ![2025-03-23_214247](https://github.com/user-attachments/assets/b60054fe-c655-4647-bb73-d39b717cde26)
 ![2025-03-23_214405](https://github.com/user-attachments/assets/2ae00690-25c5-40be-a3a1-969e0dbbf218)
 
