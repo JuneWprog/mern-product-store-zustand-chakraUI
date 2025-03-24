@@ -1,4 +1,10 @@
 # mern-product-store-zustand-chakraUI
+![2025-03-23_214247](https://github.com/user-attachments/assets/b60054fe-c655-4647-bb73-d39b717cde26)
+![2025-03-23_214247](https://github.com/user-attachments/assets/b60054fe-c655-4647-bb73-d39b717cde26)
+![2025-03-23_214405](https://github.com/user-attachments/assets/2ae00690-25c5-40be-a3a1-969e0dbbf218)
+
+
+
 
 # Install chakra UI
 https://v2.chakra-ui.com/getting-started/vite-guide
